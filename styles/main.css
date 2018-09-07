@@ -24,8 +24,8 @@ main, #messages-card {
 }
 
 .mdl-bg {
-  background-image: url('/images/rcoffee.jpg');
-  background-size: cover;
+  background-image: url('/images/rcoffee1.jpg');
+  /* background-size: cover; */
 }
 
 #messages-card-container {
